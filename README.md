@@ -1,12 +1,4 @@
 ### Hi there 👋
-Basic ReactJS : 
-https://github.com/vhaovvvx/my-app
-
-Landing Page Persona 5 strikers: 
-https://github.com/vhaovvvx/slidershow
-
-Gymax:
-https://github.com/vhaovvvx/Page1
 
 <!--
 **vhaovvvx/vhaovvvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
